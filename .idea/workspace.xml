@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b95d161-21bf-490d-9766-14173cadf6a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week-01-Fundamentals/Day-02-Typecasting-Input()-Print-Escape-Sequences-Comments/typecasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-01-Fundamentals/Day-02-Typecasting-Input()-Print-Escape-Sequences-Comments/escapeSequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-01-Fundamentals/Day-02-Typecasting-Input()-Print-Escape-Sequences-Comments/input.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-01-Fundamentals/Day-02-Typecasting-Input()-Print-Escape-Sequences-Comments/typecasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-01-Fundamentals/Day-02-Typecasting-Input()-Print-Escape-Sequences-Comments/typecasting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.data_type.executor": "Run",
+    "Python.escapeSequences.executor": "Run",
+    "Python.input.executor": "Run",
     "Python.main.executor": "Run",
     "Python.typecasting.executor": "Run",
     "Python.variables.executor": "Run",
